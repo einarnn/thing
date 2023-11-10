@@ -1,9 +1,9 @@
 package thing2
 
 func GiveMeThing2() (string, error) {
-	return "thing", nil
+	return "thing2", nil
 }
 
 func GiveMeThings2() (string, error) {
-	return "things", nil
+	return "things2", nil
 }
